@@ -1,31 +1,26 @@
 class TV{
-  int telapolegadas;
-  string canal;
-  string marca;
-  int voltagem;
-  int volume;
-
-  void ligar() {
-
-      }
-  
-   void desligar() {
-    
-  }
-
-   void aumentar() {
-    
-  }
-   void abaixar() {
-    
-  }
-
-   void subir() {
-    
-  }
-
-   void descer() {
-    
-  }
+  int tamanhoT
+  int volume
+  int voltagem
+  int canal
+  string marca
 }
 
+void ligar(){
+
+}
+void VolumeMais(){
+
+}
+void VolumeMenos(){
+
+}
+void SuvirCanal(){
+
+}
+void DescerCanal(){
+
+}
+void ligar(){
+
+}
